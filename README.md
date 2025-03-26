@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**LevTrinXII/LevTrinXII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm LevTrinXii! Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently experimenting with voice-assisted AI coding and improving my skills.
+- 💼 I’m open to collaborating on interesting projects.
+- 📫 How to reach me: [ARYEH Loeb](mailto:ARYEHLoeb@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- No Programming skills so speak of
+- Operations Management
+- Games
+
+
+## Projects
+- Visit my website: [aryehloeb.com](https://aryehloeb.com)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/aryehloeb)
