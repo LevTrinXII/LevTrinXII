@@ -5,7 +5,7 @@ Hi, I'm LevTrinXii! Welcome to my GitHub profile.
 ## About Me
 - 🌱 I’m currently experimenting with voice-assisted AI coding and improving my skills.
 - 💼 I’m open to collaborating on interesting projects.
-- 📫 How to reach me: [ARYEH Loeb](mailto:ARYEHLoeb@gmail.com)
+- 📫 How to reach me: [Aryeh Loeb](mailto:aryehloeb@gmail.com)
 
 ## My Skills
 - No Programming skills so speak of
